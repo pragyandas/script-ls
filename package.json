@@ -4,10 +4,7 @@
   "description": "search and execute scripts defined in package.json",
   "license": "MIT",
   "author": "Pragyan Das",
-  "repository": {
-    "type": "git",
-    "url": "git://https://github.com/pragyandas/script-ls.git"
-  },
+  "repository": "https://github.com/pragyandas/script-ls",
   "main": "lib",
   "bin": {
     "script-ls": "lib/index.js"
