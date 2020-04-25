@@ -6,7 +6,7 @@
 
 ```
 # install script-ls
-npm install -global script-ls
+npm install --global script-ls
 
 # In your project root
 script-ls
