@@ -1,0 +1,33 @@
+{
+  "name": "script-ls",
+  "version": "1.0.0",
+  "description": "search and execute scripts defined in package.json",
+  "license": "MIT",
+  "author": "Pragyan Das",
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/pragyandas/script-ls.git"
+  },
+  "main": "lib",
+  "bin": {
+    "script-ls": "lib/index.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 1"
+  },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "search",
+    "npm",
+    "script",
+    "run",
+    "command"
+  ],
+  "dependencies": {
+    "fuzzy": "^0.1.3",
+    "inquirer": "^7.1.0",
+    "inquirer-autocomplete-prompt": "^1.0.2",
+    "npm": "^6.14.4"
+  }
+}
