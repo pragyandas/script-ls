@@ -14,10 +14,10 @@ script-ls
 
 ## List
 
-![](images/basic.png)
+![](https://user-images.githubusercontent.com/6696740/80288762-c679d880-8757-11ea-901f-bfd5623c2cad.png)
 
 ## Search
 
 `script-ls` has auto-complete with fuzzy search. Use ⬆⬇ to select and ⏎ to run.
 
-![](images/autocomplete.png)
+![](https://user-images.githubusercontent.com/6696740/80288768-ce397d00-8757-11ea-9c32-290b07eb803f.png)
