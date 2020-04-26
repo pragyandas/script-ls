@@ -1,6 +1,6 @@
 {
   "name": "script-ls",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "search and execute scripts defined in package.json",
   "license": "MIT",
   "author": "Pragyan Das",
